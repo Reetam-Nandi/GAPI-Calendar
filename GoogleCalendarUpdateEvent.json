@@ -1,0 +1,11 @@
+{    
+    "access_token": "",
+    "expires_in": 3600,
+    "client_id": "",
+    "client_secret": "",
+    "refresh_token": "",
+    "scope": "https://www.googleapis.com/auth/calendar",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "token_type": "Bearer",
+    "caleveid": "Calendar Event ID"
+}    

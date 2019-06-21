@@ -1,0 +1,18 @@
+{
+    "access_token": "",
+    "expires_in": 3600,
+    "client_id": "",
+    "client_secret": "",
+    "refresh_token": "",
+    "scope": "https://www.googleapis.com/auth/calendar",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "token_type": "Bearer",
+    "calsumm": "Enter Updated Summary here",
+    "calloc": "Enter Updated Location here",
+    "caldesc": "Enter Updated Description here",
+    "caleveid": "Calendar Event ID", 
+    "mail": {
+      "id1": "xyz@example.com",
+      "id2": "tuv@example.com"
+    }
+  }

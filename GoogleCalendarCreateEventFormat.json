@@ -1,0 +1,21 @@
+{
+    "access_token": "",
+    "expires_in": 3600,
+    "client_id": "",
+    "client_secret": "",
+    "refresh_token": "",
+    "scope": "https://www.googleapis.com/auth/calendar",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "token_type": "Bearer",
+    "calsumm": "Enter Event Summary here",
+    "calloc": "Enter Event Location here",
+    "caldesc": "Enter Event Descriptions here",
+    "startdate": "2019-06-22T09:00:00-08:00",
+    "startzone": "America/Los_Angeles",
+    "enddate": "2019-06-23T17:20:00-22:00",
+    "endzone": "America/Los_Angeles",
+    "mail": {
+      "id1": "abc@example.com",
+      "id2": "def@example.com"
+    }
+  }
